@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Buqian Notes</title>
+    <link>zhengbuqian.github.io/posts/</link>
+    <description>Recent content in Posts on Buqian Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2020 22:41:57 -0700</lastBuildDate>
+    
+	<atom:link href="zhengbuqian.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>zhengbuqian.github.io/posts/test/</link>
+      <pubDate>Sat, 18 Jul 2020 22:41:57 -0700</pubDate>
+      
+      <guid>zhengbuqian.github.io/posts/test/</guid>
+      <description>Randmo test Randmo test Randmo test</description>
+    </item>
+    
+  </channel>
+</rss>
